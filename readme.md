@@ -1,10 +1,10 @@
 # bootstrap-icon html小图标
 
-> author：`skinnyguang`
+> author：`ikaiguang`
 
 ## 演示地址
 
-> <a href="http://demo.phpcollege.org/bootstrap-icon/index.html" title="bootstrap-icon" target="_blank">bootstrap-icon</a>
+> <a href="#" title="bootstrap-icon" target="_blank">bootstrap-icon</a>
 
 ## 关于 ：`bootstrap-icon`
 
@@ -25,6 +25,6 @@
 
 ##### 源码
 
-> oschina ：<a href="https://git.oschina.net/skinnyguang/bootstrap-icon" title="bootstrap-icon" target="_blank">bootstrap-icon</a>
+> oschina ：<a href="https://gitee.com/ikaiguang/bootstrap-icon" title="bootstrap-icon" target="_blank">bootstrap-icon</a>
 
-> github ：<a href="https://github.com/skinnyguang/bootstrap-icon" title="bootstrap-icon" target="_blank">bootstrap-icon</a>
+> github ：<a href="https://github.com/ikaiguang/bootstrap-icon" title="bootstrap-icon" target="_blank">bootstrap-icon</a>
